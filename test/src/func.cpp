@@ -7,3 +7,10 @@ bool funcX(void)
 
 	return true;
 }
+
+bool funcA(void)
+{
+	printf("func A");
+
+	return true;
+}

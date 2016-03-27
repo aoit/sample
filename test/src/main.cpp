@@ -6,6 +6,7 @@ int main(void)
 	printf("hello world!");
 
 	funcX();
+	funcA();
 
 	return 0;
 }
