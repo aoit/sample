@@ -5,6 +5,8 @@ int main(void)
 {
 	printf("hello world!");
 
+	funcX();
+
 	return 0;
 }
 
