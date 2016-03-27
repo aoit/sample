@@ -3,7 +3,7 @@
 
 bool funcX(void)
 {
-	printf("func x");
+	printf("func X");
 
 	return true;
 }
